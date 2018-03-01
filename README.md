@@ -5,7 +5,7 @@ record contributor for the mirrors
 
 ## 关于提问
 
-+ 请先查看 [Contributors](https://github.com/SCAULUG/contributors/issues)中的问题并查看您的问题是否得到解决。
++ 请先查看 [Contributors](https://github.com/SCAULUG/contributors/issues) 中的问题并查看您的问题是否得到解决。
 
 + 关于隐私问题或发现漏洞，请私下联系
 
